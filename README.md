@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PeteTheGamer962real
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C#
+- 📫 How to reach me  is my gmail peteraymondiv@gmail.com
